@@ -3,15 +3,16 @@
 @import url(fonts.css);
 
 :root {
-  --text: #009e79;
+  --text: #ffffff;
+  text-shadow: 1px 2px 5px rgb(255, 127, 240);
   --text-2: #808080;
-  --background: #e5fffd;
+  --background: #160012;
   --background-2: #ffffff;
-  --accent: #006035;
-  --rank1: #016035;
+  --accent: #ffc9f0;
+  --rank1: #f0c1ff;
   --rank2: #5dadec;
   --rank3: #be1923;
-  --rank4: #00d26a;
+  --rank4: #d200c1;
   --font-size: 18.5px;
   --scroll-size: 60px;
   --scroll-border-size: 6px;
@@ -21,7 +22,7 @@
   --lp-border: 5px;
   --lp-border-color: #ffffff;
   --idea-gh-label: #ef8a56;
-  --addchar-gh-label: #0e8a16;
+  --addchar-gh-label: #8a0e56;
 }
 
 html {
@@ -68,7 +69,7 @@ body {
 }
 
 a {
-  color: #005e45;
+  color: #f0c1ff;
   text-decoration: none;
   transition: color 0.25s;
   transition: color
@@ -81,7 +82,7 @@ img {
 table,
 th,
 td {
-  border: 2px solid rgb(0, 113, 89);
+  border: none;
   border-collapse: collapse;
   padding: 8px;
   text-align: center;
@@ -126,7 +127,7 @@ blockquote {
 
 .agggga {
   text-decoration: none;
-  color:#005e45;
+  color:#ffcaf5;
   transition: color 0.25s;
 }
 
@@ -186,7 +187,7 @@ a.goldlink,
 }
 
 #one {
-  color: #009e79;
+  color: #fce9ef;
   left : 200px;
   align-items: left;
   text-align: center;
@@ -201,91 +202,147 @@ a.goldlink,
 
 .text-zona1{
   position: absolute;
-  left: 27%;
-  top: 249.5%;
+  left: 22%;
+  top: 259.5%;
   z-index: -10%;
 }
 
 .text-zona2{
   position: absolute;
   left: 47%;
-  top: 249.5%;
+  top: 259.5%;
   z-index: -10%;
 }
 
 .text-zona3{
   position:absolute;
-  left: 67%;
-  top: 249.5%;
+  left: 71.5%;
+  top: 259.5%;
   z-index: -10%;
 }
 
 .text-zona4{
   position:absolute;
-  left: 87%;
-  top: 249.5%;
+  left: 96%;
+  top: 259.5%;
   z-index: -10%;
 }
 
 .text-zona5{
   position: absolute;
-  left: 27%;
-  top: 273.5%;
+  left: 22%;
+  top: 289.5%;
   z-index: -10%;
 }
 
 .text-zona6{
   position: absolute;
   left: 47%;
-  top: 273.5%;
+  top: 289.5%;
   z-index: -10%;
 }
 
 .text-zona7{
   position: absolute;
-  left: 67%;
-  top: 273.5%;
+  left: 71.5%;
+  top: 289.5%;
   z-index: -10%;
 }
 
 .text-zona8{
   position: absolute;
-  left: 87%;
-  top: 273.5%;
+  left: 96%;
+  top: 289.5%;
   z-index: -10%;
 }
 
 .text-zona9{
   position: absolute;
-  left: 27%;
-  top: 297.5%;
+  left: 22%;
+  top: 319.5%;
   z-index: -10%;
 }
 
 .text-zona10{
   position: absolute;
   left: 47%;
-  top: 297.5%;
+  top: 319.5%;
   z-index: -10%;
 }
 
 .text-zona11{
   position: absolute;
-  left: 67%;
-  top: 297.5%;
+  left: 71.5%;
+  top: 319.5%;
   z-index: -10%;
 }
 
 .text-zona12{
   position: absolute;
-  left: 87%;
-  top: 297.5%;
+  left: 96%;
+  top: 319.5%;
+  z-index: -10%;
+}
+
+.text-zona13{
+  position: absolute;
+  left: 22%;
+  top: 349.5%;
+  z-index: -10%;
+}
+
+.text-zona14{
+  position: absolute;
+  left: 47%;
+  top: 349.5%;
+  z-index: -10%;
+}
+
+.text-zona15{
+  position: absolute;
+  left: 71.5%;
+  top: 349.5%;
+  z-index: -10%;
+}
+
+.text-zona16{
+  position: absolute;
+  left: 96%;
+  top: 349.5%;
+  z-index: -10%;
+}
+
+.text-zona17{
+  position: absolute;
+  left: 22%;
+  top: 379.5%;
+  z-index: -10%;
+}
+
+.text-zona18{
+  position: absolute;
+  left: 47%;
+  top: 379.5%;
+  z-index: -10%;
+}
+
+.text-zona19{
+  position: absolute;
+  left: 71.5%;
+  top: 379.5%;
+  z-index: -10%;
+}
+
+.text-zona20{
+  position: absolute;
+  left: 96%;
+  top: 379.5%;
   z-index: -10%;
 }
 
 .text-zonaA{
   position: absolute;
-  left: 27%;
+  left: 22%;
   top: 80%;
   z-index: -10%;
 }
@@ -299,17 +356,159 @@ a.goldlink,
 
 .text-zonaC{
   position: absolute;
-  left: 67%;
+  left: 71.5%;
   top: 80%;
   z-index: -10%;
 }
 
 .text-zonaD{
   position: absolute;
-  left: 87%;
-  top: 80%;
+  left: 96%;
+  top: 249.5%;
   z-index: -10%;
 }
+
+.text-zonaG1{
+  position: absolute;
+  left: 22%;
+  top: 436.5%;
+  z-index: -10%;
+}
+
+.text-zonaG2{
+  position: absolute;
+  left: 47%;
+  top: 436.5%;
+  z-index: -10%;
+}
+
+.text-zonaG3{
+  position: absolute;
+  left: 71.5%;
+  top: 436.5%;
+  z-index: -10%;
+}
+
+.text-zonaG4{
+  position: absolute;
+  left: 96%;
+  top: 436.5%;
+  z-index: -10%;
+}
+
+.text-zonaG5{
+  position: absolute;
+  left: 22%;
+  top: 480.5%;
+  z-index: -10%;
+}
+
+.text-zonaG6{
+  position: absolute;
+  left: 47%;
+  top: 480.5%;
+  z-index: -10%;
+}
+
+.text-zonaG7{
+  position: absolute;
+  left: 71.5%;
+  top: 480.5%;
+  z-index: -10%;
+}
+
+.text-zonaG8{
+  position: absolute;
+  left: 96%;
+  top: 480.5%;
+  z-index: -10%;
+}
+
+.text-zonaG9{
+  position: absolute;
+  left: 22%;
+  top: 533%;
+  z-index: -10%;
+}
+
+.text-zonaG10{
+  position: absolute;
+  left: 47%;
+  top: 533%;
+  z-index: -10%;
+}
+
+.text-zonaG11{
+  position: absolute;
+  left: 71.5%;
+  top: 533%;
+  z-index: -10%;
+}
+
+.text-zonaG12{
+  position: absolute;
+  left: 96%;
+  top: 533%;
+  z-index: -10%;
+}
+
+.text-zonaG13{
+  position: absolute;
+  left: 22%;
+  top: 586%;
+  z-index: -10%;
+}
+
+.text-zonaG14{
+  position: absolute;
+  left: 47%;
+  top: 586%;
+  z-index: -10%;
+}
+
+.text-zonaG15{
+  position: absolute;
+  left: 71.5%;
+  top: 586%;
+  z-index: -10%;
+}
+
+.text-zonaG16{
+  position: absolute;
+  left: 96%;
+  top: 586%;
+  z-index: -10%;
+}
+
+.text-zonaG17{
+  position: absolute;
+  left: 22%;
+  top: 629%;
+  z-index: -10%;
+}
+
+.text-zonaG18{
+  position: absolute;
+  left: 47%;
+  top: 629%;
+  z-index: -10%;
+}
+
+.text-zonaG19{
+  position: absolute;
+  left: 71.5%;
+  top: 629%;
+  z-index: -10%;
+}
+
+.text-zonaG20{
+  position: absolute;
+  left: 96%;
+  top: 629%;
+  z-index: -10%;
+}
+
+
 /** Enable animations on hover (only if device has a precise pointer device) */
 
 
@@ -382,13 +581,13 @@ a.goldlink,
 #one.color-fr,
 .topback.color-fr {
   background: #c87e7e;
-  background: linear-gradient(145deg, #a0fffd 0%, #77ff99 35%, #a0fffd 100%);
+  background: linear-gradient(145deg, #0a0016 0%, #86002a 35%, #0a0016 100%);
   background-size: 400% 400%;
   animation: animated-gradient 10s ease infinite;
 }
 
 .color-fr {
-  color: #009e79;
+  color: #f6a8ef;
   left : 200px;
 }
 
@@ -482,7 +681,7 @@ a.goldlink,
 .spaceline {
   height: 3px;
   width: 100%;
-  background: #005e45;
+  background: #ffb7e3;
   margin-left: auto;
   margin-right: auto;
 }

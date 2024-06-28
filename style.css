@@ -203,308 +203,449 @@ a.goldlink,
 .text-zona1{
   position: absolute;
   left: 22%;
-  top: 259.5%;
+  top: 253.5%;
   z-index: -10%;
 }
 
 .text-zona2{
   position: absolute;
   left: 47%;
-  top: 259.5%;
+  top: 253.5%;
   z-index: -10%;
 }
 
 .text-zona3{
   position:absolute;
   left: 71.5%;
-  top: 259.5%;
+  top: 253.5%;
   z-index: -10%;
 }
 
 .text-zona4{
   position:absolute;
   left: 96%;
-  top: 259.5%;
+  top: 253.5%;
   z-index: -10%;
 }
 
 .text-zona5{
   position: absolute;
   left: 22%;
-  top: 289.5%;
+  top: 282.5%;
   z-index: -10%;
 }
 
 .text-zona6{
   position: absolute;
   left: 47%;
-  top: 289.5%;
+  top: 282.5%;
   z-index: -10%;
 }
 
 .text-zona7{
   position: absolute;
   left: 71.5%;
-  top: 289.5%;
+  top: 282.5%;
   z-index: -10%;
 }
 
 .text-zona8{
   position: absolute;
   left: 96%;
-  top: 289.5%;
+  top: 282.5%;
   z-index: -10%;
 }
 
 .text-zona9{
   position: absolute;
   left: 22%;
-  top: 319.5%;
+  top: 311.5%;
   z-index: -10%;
 }
 
 .text-zona10{
   position: absolute;
   left: 47%;
-  top: 319.5%;
+  top: 311.5%;
   z-index: -10%;
 }
 
 .text-zona11{
   position: absolute;
   left: 71.5%;
-  top: 319.5%;
+  top: 311.5%;
   z-index: -10%;
 }
 
 .text-zona12{
   position: absolute;
   left: 96%;
-  top: 319.5%;
+  top: 311.5%;
   z-index: -10%;
 }
 
 .text-zona13{
   position: absolute;
   left: 22%;
-  top: 349.5%;
+  top: 340.5%;
   z-index: -10%;
 }
 
 .text-zona14{
   position: absolute;
   left: 47%;
-  top: 349.5%;
+  top: 340.5%;
   z-index: -10%;
 }
 
 .text-zona15{
   position: absolute;
   left: 71.5%;
-  top: 349.5%;
+  top: 340.5%;
   z-index: -10%;
 }
 
 .text-zona16{
   position: absolute;
   left: 96%;
-  top: 349.5%;
+  top: 340.5%;
   z-index: -10%;
 }
 
 .text-zona17{
   position: absolute;
   left: 22%;
-  top: 379.5%;
+  top: 369.5%;
   z-index: -10%;
 }
 
 .text-zona18{
   position: absolute;
   left: 47%;
-  top: 379.5%;
+  top: 369.5%;
   z-index: -10%;
 }
 
 .text-zona19{
   position: absolute;
   left: 71.5%;
-  top: 379.5%;
+  top: 369.5%;
   z-index: -10%;
 }
 
 .text-zona20{
   position: absolute;
   left: 96%;
-  top: 379.5%;
+  top: 369.5%;
   z-index: -10%;
 }
 
 .text-zonaA{
   position: absolute;
   left: 22%;
-  top: 80%;
+  top: 86.5%;
   z-index: -10%;
 }
 
 .text-zonaB{
   position: absolute;
   left: 47%;
-  top: 80%;
+  top: 86.5%;
   z-index: -10%;
 }
 
 .text-zonaC{
   position: absolute;
   left: 71.5%;
-  top: 80%;
+  top: 86.5%;
   z-index: -10%;
 }
 
 .text-zonaD{
   position: absolute;
   left: 96%;
-  top: 249.5%;
+  top: 86.5%;
   z-index: -10%;
 }
+
+.text-zonaE{
+  position: absolute;
+  left: 22%;
+  top: 122.5%;
+  z-index: -10%;
+}
+
+.text-zonaF{
+  position: absolute;
+  left: 47%;
+  top: 122.5%;
+  z-index: -10%;
+}
+
+.text-zonaG{
+  position: absolute;
+  left: 71.5%;
+  top: 122.5%;
+  z-index: -10%;
+}
+
+.text-zonaH{
+  position: absolute;
+  left: 96%;
+  top: 122.5%;
+  z-index: -10%;
+}
+
+.text-zonaI{
+  position: absolute;
+  left: 22%;
+  top: 161.5%;
+  z-index: -10%;
+}
+
+.text-zonaJ{
+  position: absolute;
+  left: 47%;
+  top: 161.5%;
+  z-index: -10%;
+}
+
+.text-zonaK{
+  position: absolute;
+  left: 71.5%;
+  top: 161.5%;
+  z-index: -10%;
+}
+
+.text-zonaL{
+  position:absolute;
+  left: 96%;
+  top: 161.5%;
+  z-index: -10%;
+}
+
+.text-zonaM{
+  position:absolute;
+  left: 22%;
+  top: 204.5%;
+  z-index: -10%;
+}
+
+.text-zonaN{
+  position:absolute;
+  left: 47%;
+  top: 204.5%;
+  z-index: -10%;
+}
+
+.text-zonaO{
+  position:absolute;
+  left: 71.5%;
+  top: 204.5%;
+  z-index: -10%;
+}
+
+.text-zonaP{
+  position:absolute;
+  left: 96%;
+  top: 204.5%;
+  z-index: -10%;
+}
+
+.text-zonaQ{
+  position:absolute;
+  left: 22%;
+  top: 245.5%;
+  z-index: -10%;
+}
+
+.text-zonaR{
+  position:absolute;
+  left: 47%;
+  top: 245.5%;
+  z-index: -10%;
+}
+
+.text-zonaS{
+  position:absolute;
+  left: 71.5%;
+  top: 245.5%;
+  z-index: -10%;
+}
+
+.text-zonaT{
+  position:absolute;
+  left: 96%;
+  top: 245.5%;
+  z-index: -10%;
+}
+
+.text-zonaU{
+  position:absolute;
+  left: 22%;
+  top: 284.5%;
+  z-index: -10%;
+}
+
+.text-zonaV{
+  position:absolute;
+  left: 47%;
+  top: 284.5%;
+  z-index: -10%;
+}
+
+.text-zonaW{
+  position:absolute;
+  left: 71.5%;
+  top: 284.5%;
+  z-index: -10%;
+}
+
+.text-zonaX{
+  position:absolute;
+  left: 96%;
+  top: 284.5%;
+  z-index: -10%;
+}
+
 
 .text-zonaG1{
   position: absolute;
   left: 22%;
-  top: 436.5%;
+  top: 425.5%;
   z-index: -10%;
 }
 
 .text-zonaG2{
   position: absolute;
   left: 47%;
-  top: 436.5%;
+  top: 425.5%;
   z-index: -10%;
 }
 
 .text-zonaG3{
   position: absolute;
   left: 71.5%;
-  top: 436.5%;
+  top: 425.5%;
   z-index: -10%;
 }
 
 .text-zonaG4{
   position: absolute;
   left: 96%;
-  top: 436.5%;
+  top: 425.5%;
   z-index: -10%;
 }
 
 .text-zonaG5{
   position: absolute;
   left: 22%;
-  top: 480.5%;
+  top: 468.5%;
   z-index: -10%;
 }
 
 .text-zonaG6{
   position: absolute;
   left: 47%;
-  top: 480.5%;
+  top: 468.5%;
   z-index: -10%;
 }
 
 .text-zonaG7{
   position: absolute;
   left: 71.5%;
-  top: 480.5%;
+  top: 468.5%;
   z-index: -10%;
 }
 
 .text-zonaG8{
   position: absolute;
   left: 96%;
-  top: 480.5%;
+  top: 468.5%;
   z-index: -10%;
 }
 
 .text-zonaG9{
   position: absolute;
   left: 22%;
-  top: 533%;
+  top: 519.5%;
   z-index: -10%;
 }
 
 .text-zonaG10{
   position: absolute;
   left: 47%;
-  top: 533%;
+  top: 519.5%;
   z-index: -10%;
 }
 
 .text-zonaG11{
   position: absolute;
   left: 71.5%;
-  top: 533%;
+  top: 519.5%;
   z-index: -10%;
 }
 
 .text-zonaG12{
   position: absolute;
   left: 96%;
-  top: 533%;
+  top: 519.5%;
   z-index: -10%;
 }
 
 .text-zonaG13{
   position: absolute;
   left: 22%;
-  top: 586%;
+  top: 571.5%;
   z-index: -10%;
 }
 
 .text-zonaG14{
   position: absolute;
   left: 47%;
-  top: 586%;
+  top: 571.5%;
   z-index: -10%;
 }
 
 .text-zonaG15{
   position: absolute;
   left: 71.5%;
-  top: 586%;
+  top: 571.5%;
   z-index: -10%;
 }
 
 .text-zonaG16{
   position: absolute;
   left: 96%;
-  top: 586%;
+  top: 571.5%;
   z-index: -10%;
 }
 
 .text-zonaG17{
   position: absolute;
   left: 22%;
-  top: 629%;
+  top: 613.5%;
   z-index: -10%;
 }
 
 .text-zonaG18{
   position: absolute;
   left: 47%;
-  top: 629%;
+  top: 613.5%;
   z-index: -10%;
 }
 
 .text-zonaG19{
   position: absolute;
   left: 71.5%;
-  top: 629%;
+  top: 613.5%;
   z-index: -10%;
 }
 
 .text-zonaG20{
   position: absolute;
   left: 96%;
-  top: 629%;
+  top: 613.5%;
   z-index: -10%;
 }
 

@@ -3,10 +3,10 @@
 @import url(fonts.css);
 
 :root {
-  --text: #fea725;
-  text-shadow: 1px 2px 5px rgb(255, 197, 62);
+  --text: #f3f2ff;
+  text-shadow: 1px 2px 5px rgb(70, 96, 181);
   --text-2: #808080;
-  --background: #ffe0b1;
+  --background: #04002d;
   --background-2: #ffffff;
   --accent: #ffc9f0;
   --rank1: #f0c1ff;
@@ -343,168 +343,168 @@ a.goldlink,
 .text-zonaA{
   position: absolute;
   left: 22%;
-  top: 89.5%;
+  top: 82.5%;
   z-index: -10%;
 }
 
 .text-zonaB{
   position: absolute;
   left: 47%;
-  top: 89.5%;
+  top: 82.5%;
   z-index: -10%;
 }
 
 .text-zonaC{
   position: absolute;
   left: 71.5%;
-  top: 89.5%;
+  top: 82.5%;
   z-index: -10%;
 }
 
 .text-zonaD{
   position: absolute;
   left: 96%;
-  top: 89.5%;
+  top: 82.5%;
   z-index: -10%;
 }
 
 .text-zonaE{
   position: absolute;
   left: 22%;
-  top: 122%;
+  top: 120.5%;
   z-index: -10%;
 }
 
 .text-zonaF{
   position: absolute;
   left: 47%;
-  top: 122%;
+  top: 120.5%;
   z-index: -10%;
 }
 
 .text-zonaG{
   position: absolute;
   left: 71.5%;
-  top: 122%;
+  top: 120.5%;
   z-index: -10%;
 }
 
 .text-zonaH{
   position: absolute;
   left: 96%;
-  top: 122%;
+  top: 120.5%;
   z-index: -10%;
 }
 
 .text-zonaI{
   position: absolute;
   left: 22%;
-  top: 163%;
+  top: 152.5%;
   z-index: -10%;
 }
 
 .text-zonaJ{
   position: absolute;
   left: 47%;
-  top: 163%;
+  top: 152.5%;
   z-index: -10%;
 }
 
 .text-zonaK{
   position: absolute;
   left: 71.5%;
-  top: 163%;
+  top: 152.5%;
   z-index: -10%;
 }
 
 .text-zonaL{
   position:absolute;
   left: 96%;
-  top: 163%;
+  top: 152.5%;
   z-index: -10%;
 }
 
 .text-zonaM{
   position:absolute;
   left: 22%;
-  top: 201.5%;
+  top: 204%;
   z-index: -10%;
 }
 
 .text-zonaN{
   position:absolute;
   left: 47%;
-  top: 201.5%;
+  top: 204%;
   z-index: -10%;
 }
 
 .text-zonaO{
   position:absolute;
   left: 71.5%;
-  top: 201.5%;
+  top: 204%;
   z-index: -10%;
 }
 
 .text-zonaP{
   position:absolute;
   left: 96%;
-  top: 201.5%;
+  top: 204%;
   z-index: -10%;
 }
 
 .text-zonaQ{
   position:absolute;
   left: 22%;
-  top: 240.5%;
+  top: 255%;
   z-index: -10%;
 }
 
 .text-zonaR{
   position:absolute;
   left: 47%;
-  top: 240.5%;
+  top: 255%;
   z-index: -10%;
 }
 
 .text-zonaS{
   position:absolute;
   left: 71.5%;
-  top: 240.5%;
+  top: 255%;
   z-index: -10%;
 }
 
 .text-zonaT{
   position:absolute;
   left: 96%;
-  top: 240.5%;
+  top: 255%;
   z-index: -10%;
 }
 
 .text-zonaU{
   position:absolute;
   left: 22%;
-  top: 279%;
+  top: 287.5%;
   z-index: -10%;
 }
 
 .text-zonaV{
   position:absolute;
   left: 47%;
-  top: 279%;
+  top: 287.5%;
   z-index: -10%;
 }
 
 .text-zonaW{
   position:absolute;
   left: 71.5%;
-  top: 279%;
+  top: 287.5%;
   z-index: -10%;
 }
 
 .text-zonaX{
   position:absolute;
   left: 96%;
-  top: 279%;
+  top: 287.5%;
   z-index: -10%;
 }
 
@@ -723,13 +723,13 @@ a.goldlink,
 #one.color-fr,
 .topback.color-fr {
   background: #c87e7e;
-  background: linear-gradient(145deg, #fe7200 0%, #ff9925 35%, #ffaa3a 100%);
+  background: linear-gradient(145deg, #2f00c8 0%, #644fff 35%, #8ea3ff 100%);
   background-size: 400% 400%;
   animation: animated-gradient 10s ease infinite;
 }
 
 .color-fr {
-  color: #ffb300;
+  color: #e6e0ff;
   left : 200px;
 }
 

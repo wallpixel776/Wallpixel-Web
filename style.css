@@ -719,6 +719,7 @@ a.goldlink,
 /** Start languages colors */
 
 /* French */
+
 #one.color-fr,
 .topback.color-fr {
   background: #c87e7e;
@@ -735,16 +736,20 @@ a.goldlink,
 /* English */
 #one.color-en,
 .topback.color-en {
-  background: #0f00e0;
+  background-color: #0f00e0;
   background: linear-gradient(145deg, #0f00e0 0%, #44017a 35%, #cf0202 100%);
   background-size: 400% 400%;
   animation: animated-gradient 10s ease infinite;
 }
 
 .color-en {
-  color: #ffffff;
-  background: #0f00e0;
+  color: #c14242;
+  background-color: #2a2849;
   background: linear-gradient(145deg, #0f00e0 0%, #44017a 35%, #cf0202 100%);
+}
+
+.faux {
+  background-color: orange;
 }
 
 /* Turkish */
